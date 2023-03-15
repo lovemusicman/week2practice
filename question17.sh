@@ -7,6 +7,7 @@ git commit -m "main"
 git checkout branch1
 mv -f dir1/dir2/foo dir1/foo
 rmdir dir1/dir2
+touch newfile1
 git add .
 git commit -m "branch1"
 git checkout branch2
