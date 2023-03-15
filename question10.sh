@@ -1,2 +1,2 @@
-git checkput main
+git checkuot main
 git merge branch1
